@@ -41,8 +41,11 @@ Run ecommerce_gui.py to start the application:
 bash
 Copy code
 python ecommerce_gui.py
+
 Using the GUI
 Load Products: Click on the 'Load Products' button to fetch and display products from the database.
+
 Place Order: Currently, the 'Place Order' button is set up as an example. You can customize it to place actual orders by modifying the place_order function call within the GUI code.
-Contributions
+
+Contributions:
 Contributions are welcome! Please fork the repository and submit pull requests with your proposed changes.
